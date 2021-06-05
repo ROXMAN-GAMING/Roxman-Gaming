@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Rubik-Regular
+font link: https://fonts.google.com/specimen/Rubik
+font author: Hubert and Fischer
+font author site: http://hubertfischer.com/
+Slogan Font: OFLGoudyStMTT.ttf
+
+icon designer: Alfredo @ IconsAlfredo.com
+icon designer link: /AlfredoCreates
+        
+{"bg":"#E02D1D","icon":"#FFAD9D","font":"#FFAD9D","slogan":"#ffc1b1"}
+      
